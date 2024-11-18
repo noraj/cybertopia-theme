@@ -77,3 +77,4 @@ Repository | Application
 ---------- | -----------
 [cybertopia-highlightjs](https://github.com/noraj/cybertopia-highlightjs) | [highlight.js](https://github.com/highlightjs/highlight.js)
 [cybertopia-marp](https://github.com/noraj/cybertopia-marp) | [marp](https://github.com/marp-team/marp)
+[cybertopia-tlrc](https://github.com/noraj/cybertopia-tlrc) | [tlrc](https://github.com/tldr-pages/tlrc)
